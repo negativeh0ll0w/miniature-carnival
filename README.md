@@ -1,4 +1,4 @@
-# miniature-carnival
+# Sarah King Web Development Portfolio
 
 ## Purpose
 My online web design portfolio featuring projects made in the Uconn coding bootcamp
